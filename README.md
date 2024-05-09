@@ -1,2 +1,2 @@
-# Portfolio-for-Frontend-Developer
-Frontend Developer 
+# Resume
+My Resume from Complete Web Development Course
